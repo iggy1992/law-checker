@@ -160,7 +160,7 @@ function App() {
       )}
 
       <footer style={{ marginTop: '4rem', textAlign: 'center', color: 'var(--text-muted)', fontSize: '0.85rem' }}>
-        <p>© 2026 8percent Compliance Team. All rights reserved.</p>
+        <p>© 2026 8percent Marketing Team. All rights reserved.</p>
       </footer>
     </div>
   );
